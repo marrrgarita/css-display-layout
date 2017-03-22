@@ -31,19 +31,19 @@ ul {
   margin: 0px;
 }
 
+main {
+  width: 800px;
+  margin: 0px auto;
+  text-align: center;
+}
+
 h2 {
     background-color: cadetblue;
     padding: 15px;
     font-size: 22px;
-    width: 800px;
-    margin: 15px auto;
+    text-align: left;
 }
 
-.row {
-    width: 800px;
-    margin: auto;
-    text-align: center;
-}
 
 .container {
   display: inline-block;
